@@ -1,7 +1,7 @@
 # Unity-Examples
 Ejemplos para explicar Unity
 
-Las escenas estan nombradas segun el subsitema que explica:
+Las escenas estan nombradas segun el subsistema que explica:
 * Physics
 * Animations 1
 * Animations 2
